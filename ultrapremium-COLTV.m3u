@@ -100,9 +100,8 @@ http://ultrapremium.cloud:8080/977591071tv/nw3v63b/363
 
 
 
-#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="→ COLOMBIA ←",Red+ (1080p)
+EXTINF:-1 tvg-id="" tvg-name="COL• Red+ (1080p)" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="→ COLOMBIA ←",COL• Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-logo="https://i.imgur.com/7Wlt6bc.png" group-title="→ COLOMBIA ←",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 
